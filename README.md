@@ -47,8 +47,11 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 
 
 | Letra | Permiso | Número | Ejemplo |
+
 | r | Read | 4 | |
+
 | w | Write | 2 | |
+
 | x | Execute | 1 | |
 
 
